@@ -1,0 +1,78 @@
+
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    }
+
+
+
+
+
+header {
+    background-color: blueviolet;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+
+}
+
+h1{
+    font-family: "Raleway", sans-serif;
+    color: rgb(5, 5, 5);
+}
+
+body, h2, h3, h4, h5 { 
+    font-family: "Raleway", sans-serif;
+    
+}
+
+p{
+    color: rgb(6, 156, 237);
+}
+
+
+.logo {
+    border-radius: 50px;
+    float: left;
+}
+
+
+nav ul {
+    margin: 0px;
+    padding: 0px;
+    overflow: 0px;
+}
+
+nav li {
+    border: 2px;
+    background-color: blueviolet;
+    list-style-type: none;
+    border-color: purple;
+    float: left;
+    width: 13%;
+    padding: 20px;
+    display: block;
+}
+
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav li:hover {
+    background-color:darkorchid;
+
+}
+
+
+
+
+table th{
+    background-color: rgb(15, 14, 16);
+    color: white;
+}
+
+
+
